@@ -5,7 +5,7 @@
   "main": "lib/version.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/StreetHub/mongoose-version.git"
+    "url": "git://github.com/AleksMeshkov/mongoose-version.git"
   },
   "keywords": [
     "mongoose",
@@ -29,9 +29,9 @@
     "cover": "istanbul cover ./node_modules/mocha/bin/_mocha --recursive -- -R spec"
   },
   "bugs": {
-    "url": "https://github.com/StreetHub/mongoose-version/issues"
+    "url": "https://github.com/AleksMeshkov/mongoose-version/issues"
   },
-  "homepage": "https://github.com/StreetHub/mongoose-version#readme",
+  "homepage": "https://github.com/AleksMeshkov/mongoose-version#readme",
   "directories": {
     "test": "test"
   },
